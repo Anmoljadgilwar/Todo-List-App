@@ -19,7 +19,9 @@ This Todo App is a fully functional task management application built using Reac
 
 ### Getting Started
 
-To get started with the Todo App, follow these steps:
+Click on the Link to use it🔗: [ https//todomanager108.netlify.app ]
+OR
+follow these steps to clone and run:
 
 1. **Clone the Repository**:
 

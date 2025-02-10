@@ -1,5 +1,3 @@
-//
-
 import { useState, useEffect } from "react";
 import { TodoProvider } from "./contexts/TodoContext";
 import "./App.css";
