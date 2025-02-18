@@ -3,7 +3,8 @@
   margin: 0 auto;
   padding: 1rem;
   text-align: center;
-  background-color: rgb(244, 215, 244);
+  background-image: url(./public/backImg.jpg);
+  background-size: cover;
 }
 
 @media screen and (min-width: 600px) {
