@@ -59,3 +59,5 @@ follow these steps to clone and run:
 ### Contribution
 
 Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request or open an issue.
+
+Thanks for reading
